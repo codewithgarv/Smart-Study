@@ -341,7 +341,7 @@ hr{
 
 #services{
     background-color: seagreen;
-    height: 70vh;
+    height: auto;
     width: 100%;
 
 }
